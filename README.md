@@ -11,3 +11,5 @@ git commit - (good practice to do with "-m" flag followed by short message in qu
 git push - (use "-u" for upstream) pushes from local to GitHub, use "origin" "master"
 		Example: git push -u origin master
 git pull - grabs all new files from GitHub to local
+
+Her's a test edit
