@@ -18,6 +18,8 @@ Text adventure game
   - New room for each concept learned
   - Draw a map for the user?
   
-Gorillas
+Gorillas //whut?
 
 Breakout
+
+Raspberry Pi - Any number of applications (beginner to advanced)
